@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Oluwadamilare Isaac Oyediran
 
+I'm currently a Computer Engineering student with a passion for solving real-world problems through Machine Learning. Right now, I'm focusing on Crop Yield Prediction using advanced ML techniques. I'm always eager to explore how technology can be used to revolutionize agriculture and healthcare.
+
+💻 Open to Collaborations: I'm particularly interested in working on projects related to agriculture and medical-based machine learning applications. If you're working on something cool in these spaces, let's connect!
+
+🎉 Fun Fact: When I'm not coding, you'll likely find me cooking up a storm in the kitchen. I'm a passionate home chef, always experimenting with new flavors.
+
+Feel free to check out my projects or reach out if you'd like to collaborate!
 <!--
 **DrazzyDre/DrazzyDre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
