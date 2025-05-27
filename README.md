@@ -30,7 +30,7 @@
 
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/oluwadamilare-oyediran)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/oluwadamilare-oyediran)  
 - 📬 Email: oluwadamilare@adullamfashion.com
 - 👕 Founder of [ADULLAM FASHION & LIFESTYLE](https://adullamfashion.com) – Christian streetwear brand  
 
