@@ -43,6 +43,8 @@
 
 ---
 
+
+<!--
 ## 📊 GitHub Stats & Tools
 
 <p align="center">
@@ -51,8 +53,6 @@
 </p>
 
 
-<!--
-# Another app
 -->
 
 
