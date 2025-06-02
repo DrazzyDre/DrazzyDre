@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Oluwadamilare!
 
 🎓 Computer Engineering Graduate from LAUTECH  
-📍 Data Science Intern @ IITA | Member, Data & Research Methods Unit  
+📍 Data Science Intern | Member, Data & Research Methods Unit  
 💡 Passionate about solving real-world problems using Data, AI, and Software  
 🧠 Currently learning: CKAN, GitHub workflows, and data infrastructure  
 🚀 Building: Crop Yield Prediction, IoMT Security Analysis, and more  
