@@ -5,7 +5,7 @@
 💡 Passionate about solving real-world problems using Data, AI, and Software  
 🧠 Currently learning: CKAN, GitHub workflows, and data infrastructure  
 🚀 Building: Crop Yield Prediction, IoMT Security Analysis, and more  
-🛠️ Tech Stack: Python | SQL | Pandas | Scikit-learn | Matplotlib | Git | CKAN | C | ODK 
+🛠️ Tech Stack: Python | R | SQL | Pandas | Scikit-learn | Matplotlib | Git | CKAN | C | ODK 
 
 ---
 
